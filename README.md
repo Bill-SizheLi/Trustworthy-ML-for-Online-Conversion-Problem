@@ -1,1 +1,1 @@
-# Trustworthy-ML-for-Online-Conversion-Problem
+# Trustworthy_Online_Decision_Making
